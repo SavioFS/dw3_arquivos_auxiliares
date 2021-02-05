@@ -1,4 +1,4 @@
-![academia](ACADEMIA_ICON.PNG)
+![academia](https://github.com/rodrigorahman/dw3_arquivos_auxiliares/blob/master/ACADEMIA_ICON.png)
 
 ## Nesse repositório você encontra os arquivos auxiliares para criação do backend no Dart Week
 
