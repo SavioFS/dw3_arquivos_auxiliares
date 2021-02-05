@@ -1,4 +1,4 @@
-![academia](ACADEMIA_ICON.PNG =50x50)
+![academia](ACADEMIA_ICON.PNG)
 
 ## Nesse repositório você encontra os arquivos auxiliares para criação do backend no Dart Week
 
