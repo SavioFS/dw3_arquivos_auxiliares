@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "0173303c-0b95-49e2-86c3-e27be3929627",
+		"name": "Menu",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Find All",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8080/menu/",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"menu",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
