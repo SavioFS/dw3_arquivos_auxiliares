@@ -11,6 +11,7 @@
 ## Dependencias do Backend
 
 ```
+dependencies:
   args: ^1.6.0
   dotenv: ^2.0.0
   get_it: ^5.0.3
@@ -19,6 +20,14 @@
   mysql1: ^0.17.1
   shelf: ^0.7.5
   shelf_router: ^0.7.4
+
+dev_dependencies:
+  build_runner: ^1.10.11
+  injectable_generator: ^1.0.7
+  json_serializable: ^3.5.1
+  pedantic: ^1.9.0
+  shelf_router_generator: ^0.7.2+3
+
 ```
 
 ## Dependencias do Mobile
